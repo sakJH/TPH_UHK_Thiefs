@@ -1,5 +1,6 @@
 # UHK_Thiefs
  TPH Project
+## Informace o projektu - viz. Dokumentace_UHK_Thiefs
 ## Hodnocení
 ### -
 - Nevyužití potenciál sbíratelných předmětů.
