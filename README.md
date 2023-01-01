@@ -1,5 +1,6 @@
 # UHK_Thiefs
  TPH Project - Vytvoření počítačové hry v Unreal Engine 5
+ - Git obsahuje základní soubory, ne celý projekt!
 ## Informace o projektu - viz. Dokumentace_UHK_Thiefs
 ## Hodnocení
 ### -
