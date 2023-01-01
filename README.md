@@ -1,5 +1,5 @@
 # UHK_Thiefs
- TPH Project
+ TPH Project - Vytvoření počítačové hry v Unreal Engine 5
 ## Informace o projektu - viz. Dokumentace_UHK_Thiefs
 ## Hodnocení
 ### -
