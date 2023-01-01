@@ -1,5 +1,0 @@
-2022/10/24-13:42:39.259 4740 Reusing MANIFEST D:/THP/UHK_Thiefs/UHK_Thiefs/UHK_Thiefs/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/24-13:48:47.094 d58 Level-0 table #5: started
-2022/10/24-13:48:47.100 d58 Level-0 table #5: 7042 bytes OK
-2022/10/24-13:48:47.101 d58 Delete type=0 #3
-2022/10/24-13:48:47.102 d58 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
